@@ -1,0 +1,7 @@
+.header a{
+    margin: 0 10px;
+}
+
+.active{
+    background: rgb(255, 255, 255);
+}
